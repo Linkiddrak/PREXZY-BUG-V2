@@ -13,7 +13,7 @@ global.isLink = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 global.thumb = fs.readFileSync("./thumb.png") ///DON'T CHANGE  
 global.audionya = fs.readFileSync("./all/sound.mp3") //DON'T CHANGE  
 global.packname = "𝐁𝐲 𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐 " 
-global.author = "*Taizen Linkid❄️*" 
+global.author = "*Raizen Linkid❄️*" 
 global.jumlah = "5" ////DON'T CHANGE
 
 let file = require.resolve(__filename)
