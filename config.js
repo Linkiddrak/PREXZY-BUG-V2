@@ -2,7 +2,7 @@ require("./all/module")
 
 global.owner = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04" 
 global.namabot = "𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐" //BOT NAME
-global.namaCreator = "*PRECIOUS AYOMIDE*" //CREATOR NAME
+global.namaCreator = "*Raizen Linkid*" //CREATOR NAME
 global.autoJoin = false //DON'T CHANGE  / JANGAN GANTI
 global.antilink = false //DON'T CHANGE  / JANGAN GANTI
 global.versisc = '1.0.0' //DON'T CHANGE 
@@ -13,7 +13,7 @@ global.isLink = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
 global.thumb = fs.readFileSync("./thumb.png") ///DON'T CHANGE  
 global.audionya = fs.readFileSync("./all/sound.mp3") //DON'T CHANGE  
 global.packname = "𝐁𝐲 𝕻𝕽𝕰𝖃𝖄 𝕭𝖀𝕾 𝕻𝟐 " 
-global.author = "*PRECIOUS AYOMIDE👑*" 
+global.author = "*Taizen Linkid❄️*" 
 global.jumlah = "5" ////DON'T CHANGE
 
 let file = require.resolve(__filename)
